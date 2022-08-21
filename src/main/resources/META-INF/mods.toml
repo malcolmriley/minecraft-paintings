@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Code: MIT, Textures: Public Domain"
+issueTrackerURL="https://github.com/malcolmriley/minecraft-TEMPLATE/issues"
+
+[[mods]]
+modId="TEMPLATE"
+version="${file.jarVersion}"
+displayName="TEMPLATE"
+logoFile="logo.png"
+credits="The_Paragon"
+authors="Malcolm Riley"
+description='''
+A collection of paintings that have been adapted from works in the public domain.
+'''
+
+[[dependencies.paragon_textiles]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40.1,)"
+    ordering="NONE"
+    side="BOTH"
