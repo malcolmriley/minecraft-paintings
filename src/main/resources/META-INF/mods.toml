@@ -1,12 +1,12 @@
 modLoader="javafml"
 loaderVersion="[40,)"
 license="Code: MIT, Textures: Public Domain"
-issueTrackerURL="https://github.com/malcolmriley/minecraft-TEMPLATE/issues"
+issueTrackerURL="https://github.com/malcolmriley/minecraft-paintings/issues"
 
 [[mods]]
-modId="TEMPLATE"
+modId="paragon_paintings"
 version="${file.jarVersion}"
-displayName="TEMPLATE"
+displayName="Foreboding Paintings"
 logoFile="logo.png"
 credits="The_Paragon"
 authors="Malcolm Riley"
@@ -14,7 +14,7 @@ description='''
 A collection of paintings that have been adapted from works in the public domain.
 '''
 
-[[dependencies.paragon_textiles]]
+[[dependencies.paragon_paintings]]
     modId="forge"
     mandatory=true
     versionRange="[40.1,)"
