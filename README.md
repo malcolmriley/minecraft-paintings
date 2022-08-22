@@ -1,5 +1,4 @@
 # Foreboding Paintings
-==================
 _What if Francisco Goya had played Minecraft?_
 ![Painting Montage](montage.png)
 
