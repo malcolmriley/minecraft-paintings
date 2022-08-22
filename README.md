@@ -6,6 +6,8 @@ This is a simple mod that adds additional paintings, supposedly in the style of 
 
 If you've been in the mood for some mildly-disquieting oil paintings for your Minecraft mansion, then this is the mod for you!
 
+[Official builds are available on CurseForge.](https://www.curseforge.com/minecraft/mc-mods/foreboding-paintings)
+
 ## Features
 - A collection of mildly-unsettling, aged oil paintings!
 
