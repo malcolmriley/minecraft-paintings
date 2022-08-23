@@ -11,7 +11,7 @@ logoFile="logo.png"
 credits="The_Paragon"
 authors="Malcolm Riley"
 description='''
-A collection of paintings that have been adapted from works in the public domain.
+A collection of mildly-unsettling AI-generated paintings supposedly based on the works of Francisco Goya.
 '''
 
 [[dependencies.paragon_paintings]]
