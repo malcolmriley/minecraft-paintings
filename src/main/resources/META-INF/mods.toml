@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[40,)"
-license="Code: MIT, Textures: Public Domain"
+license="Code: MIT, Textures: Some Restrictions Apply"
 issueTrackerURL="https://github.com/malcolmriley/minecraft-paintings/issues"
 
 [[mods]]
@@ -15,8 +15,8 @@ A collection of mildly-unsettling AI-generated paintings supposedly based on the
 '''
 
 [[dependencies.paragon_paintings]]
-    modId="forge"
-    mandatory=true
-    versionRange="[40.1,)"
-    ordering="NONE"
-    side="BOTH"
+	modId="forge"
+	mandatory=true
+	versionRange="[40.1,)"
+	ordering="NONE"
+	side="BOTH"
